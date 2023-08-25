@@ -90,6 +90,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\pqnga00\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\dracula",
     url = "https://github.com/Mofiqul/dracula.nvim"
   },
+  firenvim = {
+    loaded = true,
+    path = "C:\\Users\\pqnga00\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\firenvim",
+    url = "https://github.com/glacambre/firenvim"
+  },
   harpoon = {
     loaded = true,
     path = "C:\\Users\\pqnga00\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\harpoon",
